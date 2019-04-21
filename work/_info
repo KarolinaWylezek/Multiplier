@@ -1,0 +1,127 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+Efulladd
+Z0 w1555844898
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dD:/Dokumenty/DSE/Multiplier01
+Z4 8D:\Dokumenty\DSE\Multiplier01\FullAdder.vhd
+Z5 FD:\Dokumenty\DSE\Multiplier01\FullAdder.vhd
+l0
+L4
+Vk8gm`:lWIo=;<@=HBc^Cg2
+!s100 BLI@3_e[5oF>H;ZkU<f<M0
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1555844952
+!i10b 1
+Z8 !s108 1555844952.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\Multiplier01\FullAdder.vhd|
+Z10 !s107 D:\Dokumenty\DSE\Multiplier01\FullAdder.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehaviour
+R1
+R2
+DEx4 work 7 fulladd 0 22 k8gm`:lWIo=;<@=HBc^Cg2
+l16
+L14
+V21IiB]PX2VM_:jKAIghbT3
+!s100 6ZL;4i]e=^Oj=5=61e^Un2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Emultiplier
+Z13 w1555844948
+R1
+R2
+R3
+Z14 8D:\Dokumenty\DSE\Multiplier01\Multiplier01.vhd
+Z15 FD:\Dokumenty\DSE\Multiplier01\Multiplier01.vhd
+l0
+L4
+VYWAoQ]20dWVZzNYFKGT3e3
+!s100 XT>GLgW5K@c5K[]]W4nXR1
+R6
+32
+Z16 !s110 1555844951
+!i10b 1
+Z17 !s108 1555844951.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\Multiplier01\Multiplier01.vhd|
+Z19 !s107 D:\Dokumenty\DSE\Multiplier01\Multiplier01.vhd|
+!i113 1
+R11
+R12
+Abehaviour
+R1
+R2
+DEx4 work 10 multiplier 0 22 YWAoQ]20dWVZzNYFKGT3e3
+l54
+L12
+VnBi7B2nSIV:O9kaB14=ff0
+!s100 o6EKSlL<1@3hTB;`Qc`A>1
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Etestbench_multiplier
+Z20 w1555844922
+R1
+R2
+R3
+Z21 8D:\Dokumenty\DSE\Multiplier01\TestBenchMultiplier.vhd
+Z22 FD:\Dokumenty\DSE\Multiplier01\TestBenchMultiplier.vhd
+l0
+L4
+V23l>iadBdZbl4hL4zjIaP0
+!s100 NcMPC2A@cQ_azMc;kAOXf3
+R6
+32
+R7
+!i10b 1
+R17
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\Multiplier01\TestBenchMultiplier.vhd|
+Z24 !s107 D:\Dokumenty\DSE\Multiplier01\TestBenchMultiplier.vhd|
+!i113 1
+R11
+R12
+Abehavior
+R1
+R2
+DEx4 work 20 testbench_multiplier 0 22 23l>iadBdZbl4hL4zjIaP0
+l20
+L7
+V10<:KGCKkEJX;czk^M<eE1
+!s100 [8ZJPSQc[d6:=VoUl_DmI2
+R6
+32
+R7
+!i10b 1
+R17
+R23
+R24
+!i113 1
+R11
+R12
