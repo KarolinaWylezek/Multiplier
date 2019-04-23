@@ -22,9 +22,9 @@ V4EFnYQIdo^?T@S7Y0RSPQ1
 !s100 6>1lJle3WQ[a9ZlIIT_]k3
 Z7 OV;C;10.5b;63
 32
-Z8 !s110 1556040017
+Z8 !s110 1556049249
 !i10b 1
-Z9 !s108 1556040017.000000
+Z9 !s108 1556049249.000000
 Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/git/CircuitA.vhd|
 Z11 !s107 D:/Dokumenty/DSE/git/CircuitA.vhd|
 !i113 1
@@ -55,19 +55,19 @@ R1
 R2
 R3
 R4
-Z18 8D:\Dokumenty\DSE\git\CircuitB.vhd
-Z19 FD:\Dokumenty\DSE\git\CircuitB.vhd
+Z18 8D:/Dokumenty/DSE/git/CircuitB.vhd
+Z19 FD:/Dokumenty/DSE/git/CircuitB.vhd
 l0
 L5
 V9;2MSj?08K4066]U5RmPW0
 !s100 ziUbX9]<6?e]ongo47i^U0
 R7
 32
-Z20 !s110 1556040016
+R8
 !i10b 1
-Z21 !s108 1556040016.000000
-Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\git\CircuitB.vhd|
-Z23 !s107 D:\Dokumenty\DSE\git\CircuitB.vhd|
+R9
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/git/CircuitB.vhd|
+Z21 !s107 D:/Dokumenty/DSE/git/CircuitB.vhd|
 !i113 1
 R12
 R13
@@ -82,22 +82,22 @@ Vbn^G_3iQz[1>f^N<J7^aQ3
 !s100 WHLz:UoAB0TVTmISczg5j3
 R7
 32
-R20
+R8
 !i10b 1
+R9
+R20
 R21
-R22
-R23
 !i113 1
 R12
 R13
 Ecomp9
-Z24 w1556039260
+Z22 w1556039260
 R1
 R2
 R3
 R4
-Z25 8D:/Dokumenty/DSE/git/comparator.vhd
-Z26 FD:/Dokumenty/DSE/git/comparator.vhd
+Z23 8D:/Dokumenty/DSE/git/comparator.vhd
+Z24 FD:/Dokumenty/DSE/git/comparator.vhd
 l0
 L5
 VI`2UoKi9lNZNVG`PZn>Fc0
@@ -106,9 +106,9 @@ R7
 32
 R8
 !i10b 1
-R21
-Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/git/comparator.vhd|
-Z28 !s107 D:/Dokumenty/DSE/git/comparator.vhd|
+R9
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/git/comparator.vhd|
+Z26 !s107 D:/Dokumenty/DSE/git/comparator.vhd|
 !i113 1
 R12
 R13
@@ -125,30 +125,30 @@ R7
 32
 R8
 !i10b 1
-R21
-R27
-R28
+R9
+R25
+R26
 !i113 1
 R12
 R13
 Edecoder1
-Z29 w1556039127
+Z27 w1556039127
 R2
 R3
 R4
-Z30 8D:\Dokumenty\DSE\git\decoder.vhd
-Z31 FD:\Dokumenty\DSE\git\decoder.vhd
+Z28 8D:/Dokumenty/DSE/git/decoder.vhd
+Z29 FD:/Dokumenty/DSE/git/decoder.vhd
 l0
 L4
 V_BBZ=5BBRb6VNogKK_K`23
 !s100 m__zPlG_SBj:RmY;I8eWo1
 R7
 32
-R20
+R8
 !i10b 1
-R21
-Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\git\decoder.vhd|
-Z33 !s107 D:\Dokumenty\DSE\git\decoder.vhd|
+R9
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/git/decoder.vhd|
+Z31 !s107 D:/Dokumenty/DSE/git/decoder.vhd|
 !i113 1
 R12
 R13
@@ -162,32 +162,32 @@ Vfh<UXBAbYzKL8loH9<IY60
 !s100 F;_0R]V_68X^YALKS47<^2
 R7
 32
-R20
+R8
 !i10b 1
-R21
-R32
-R33
+R9
+R30
+R31
 !i113 1
 R12
 R13
 Efulladd
-Z34 w1555844898
+Z32 w1555844898
 R2
 R3
 R4
-Z35 8D:/Dokumenty/DSE/Multiplier01/FullAdder.vhd
-Z36 FD:/Dokumenty/DSE/Multiplier01/FullAdder.vhd
+Z33 8D:/Dokumenty/DSE/Multiplier01/FullAdder.vhd
+Z34 FD:/Dokumenty/DSE/Multiplier01/FullAdder.vhd
 l0
 L4
 Vk8gm`:lWIo=;<@=HBc^Cg2
 !s100 BLI@3_e[5oF>H;ZkU<f<M0
 R7
 32
-R20
+R8
 !i10b 1
-R21
-Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/Multiplier01/FullAdder.vhd|
-Z38 !s107 D:/Dokumenty/DSE/Multiplier01/FullAdder.vhd|
+R9
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/Multiplier01/FullAdder.vhd|
+Z36 !s107 D:/Dokumenty/DSE/Multiplier01/FullAdder.vhd|
 !i113 1
 R12
 R13
@@ -201,32 +201,32 @@ V21IiB]PX2VM_:jKAIghbT3
 !s100 6ZL;4i]e=^Oj=5=61e^Un2
 R7
 32
-R20
+R8
 !i10b 1
-R21
-R37
-R38
+R9
+R35
+R36
 !i113 1
 R12
 R13
 Emultiplex
-Z39 w1556039149
+Z37 w1556039149
 R2
 R3
 R4
-Z40 8D:/Dokumenty/DSE/git/mux.vhd
-Z41 FD:/Dokumenty/DSE/git/mux.vhd
+Z38 8D:/Dokumenty/DSE/git/mux.vhd
+Z39 FD:/Dokumenty/DSE/git/mux.vhd
 l0
 L3
 V6f;ZfeCdc8NT>Kj]EEVHG2
 !s100 VVogDI6`FV8mMANh_;XG`2
 R7
 32
-R20
+R8
 !i10b 1
-R21
-Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/git/mux.vhd|
-Z43 !s107 D:/Dokumenty/DSE/git/mux.vhd|
+R9
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/git/mux.vhd|
+Z41 !s107 D:/Dokumenty/DSE/git/mux.vhd|
 !i113 1
 R12
 R13
@@ -240,64 +240,64 @@ VK=?TZ@V@eFY6oMBe6hKJT3
 !s100 bPLkbzefEO><8zjlczZ`b3
 R7
 32
-R20
+R8
 !i10b 1
-R21
-R42
-R43
+R9
+R40
+R41
 !i113 1
 R12
 R13
 Emultiplier
-Z44 w1556039202
-Z45 DPx4 ieee 20 numeric_std_unsigned 0 22 jF^[l6kSe0l<k3W[UC=P83
+Z42 w1556049243
+Z43 DPx4 ieee 20 numeric_std_unsigned 0 22 jF^[l6kSe0l<k3W[UC=P83
 R1
 R2
 R3
 R4
-Z46 8D:/Dokumenty/DSE/Multiplier01/Multiplier01.vhd
-Z47 FD:/Dokumenty/DSE/Multiplier01/Multiplier01.vhd
+Z44 8D:\Dokumenty\DSE\Multiplier01\Multiplier01.vhd
+Z45 FD:\Dokumenty\DSE\Multiplier01\Multiplier01.vhd
 l0
 L7
 Vk@2gCN<emFcfREIO:^=hC2
 !s100 aKiiQdMnGc3lF3lRR??]92
 R7
 32
-R20
+R8
 !i10b 1
-R21
-Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/Multiplier01/Multiplier01.vhd|
-Z49 !s107 D:/Dokumenty/DSE/Multiplier01/Multiplier01.vhd|
+R9
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\Multiplier01\Multiplier01.vhd|
+Z47 !s107 D:\Dokumenty\DSE\Multiplier01\Multiplier01.vhd|
 !i113 1
 R12
 R13
 Abehaviour
-R45
+R43
 R1
 R2
 R3
 DEx4 work 10 multiplier 0 22 k@2gCN<emFcfREIO:^=hC2
-l125
+l120
 L17
-VPO=BWI1DLIcLOj?FNI<Ti3
-!s100 kj^kMQeUCi_0;HXFf?fN23
+VfSaUda[fE[[47lcA6Z@G81
+!s100 CAh4hhZcYZfg4>cC5d>;H1
 R7
 32
-R20
+R8
 !i10b 1
-R21
-R48
-R49
+R9
+R46
+R47
 !i113 1
 R12
 R13
 Eseg7
-Z50 w1556040008
+Z48 w1556040008
 R2
 R3
 R4
-Z51 8D:\Dokumenty\DSE\git\decoder2.vhd
-Z52 FD:\Dokumenty\DSE\git\decoder2.vhd
+Z49 8D:/Dokumenty/DSE/git/decoder2.vhd
+Z50 FD:/Dokumenty/DSE/git/decoder2.vhd
 l0
 L4
 VOKVCHoi>5Jke7RmE]0[mG0
@@ -307,8 +307,8 @@ R7
 R8
 !i10b 1
 R9
-Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\git\decoder2.vhd|
-Z54 !s107 D:\Dokumenty\DSE\git\decoder2.vhd|
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/git/decoder2.vhd|
+Z52 !s107 D:/Dokumenty/DSE/git/decoder2.vhd|
 !i113 1
 R12
 R13
@@ -325,29 +325,29 @@ R7
 R8
 !i10b 1
 R9
-R53
-R54
+R51
+R52
 !i113 1
 R12
 R13
 Etestbench_multiplier
-Z55 w1556039236
+Z53 w1556047851
 R2
 R3
 R4
-Z56 8D:/Dokumenty/DSE/Multiplier01/TestBenchMultiplier.vhd
-Z57 FD:/Dokumenty/DSE/Multiplier01/TestBenchMultiplier.vhd
+Z54 8D:/Dokumenty/DSE/Multiplier01/TestBenchMultiplier.vhd
+Z55 FD:/Dokumenty/DSE/Multiplier01/TestBenchMultiplier.vhd
 l0
 L4
 V23l>iadBdZbl4hL4zjIaP0
 !s100 NcMPC2A@cQ_azMc;kAOXf3
 R7
 32
-R20
+R8
 !i10b 1
-R21
-Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/Multiplier01/TestBenchMultiplier.vhd|
-Z59 !s107 D:/Dokumenty/DSE/Multiplier01/TestBenchMultiplier.vhd|
+R9
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/Multiplier01/TestBenchMultiplier.vhd|
+Z57 !s107 D:/Dokumenty/DSE/Multiplier01/TestBenchMultiplier.vhd|
 !i113 1
 R12
 R13
@@ -357,15 +357,15 @@ R3
 DEx4 work 20 testbench_multiplier 0 22 23l>iadBdZbl4hL4zjIaP0
 l29
 L7
-V=6z8dgW2X>o1eT:Wfa`AF3
-!s100 BdJb]RCPGdJK7B4KT7Whk1
+V0Jd=K=46;Hc0=:[mb6Qno2
+!s100 d:D`T7o[3k;H:dQHDhkS[1
 R7
 32
-R20
+R8
 !i10b 1
-R21
-R58
-R59
+R9
+R56
+R57
 !i113 1
 R12
 R13
