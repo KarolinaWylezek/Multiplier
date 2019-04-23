@@ -9,16 +9,16 @@ END seg7;
 ARCHITECTURE Behavior OF seg7 IS
 	
 BEGIN 
-     	m <= "1000000" WHEN c = "00000000" else	--0
-	     "1111001" WHEN c = "00000001" else	--1
-	     "0100100" WHEN c = "00000010" else	--2
-	     "0110000" WHEN c = "00000011" else	--3
-	     "0011001" WHEN c = "00000100" else	--4
-	     "0010010" WHEN c = "00000101" else	--5
-	     "0000010" WHEN c = "00000110" else --6
-	     "1111000" WHEN c = "00000111" else	--7
-	     "0000000" WHEN c = "00001000" else	--8
-	     "0010000" WHEN c = "00001001" else	--9
-	     "1111111";				
+     	m <= "1111110" WHEN c = "00000000" else	--0
+	     "0110000" WHEN c = "00000001" else	--1
+	     "1101101" WHEN c = "00000010" else	--2
+	     "1111001" WHEN c = "00000011" else	--3
+	     "0110011" WHEN c = "00000100" else	--4
+	     "1011011" WHEN c = "00000101" else	--5
+	     "1011111" WHEN c = "00000110" else --6
+	     "1110000" WHEN c = "00000111" else	--7
+	     "1111111" WHEN c = "00001000" else	--8
+	     "1111011" WHEN c = "00001001" else	--9
+	     "0000000";				
 END Behavior;
 

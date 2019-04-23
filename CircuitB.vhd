@@ -30,14 +30,14 @@ CNEUF <= "00111011";
 SEVENTY <= "1000110";
 ETY <= "1010000";
 
-CBS <= "1000000" when CBE < NEUF else                  
-       "1111001" when (CBE > NEUF AND CBE < DNEUF) else
-       "0100100" when (CBE > DNEUF AND CBE < VNEUF) else 
-       "0110000" when (CBE > VNEUF AND CBE < TNEUF) else 
-       "0011001" when (CBE > TNEUF AND CBE < QNEUF) else 
-       "0010010" when (CBE > QNEUF AND CBE < CNEUF) else
-       "0000010" when (CBE > CNEUF AND CBE < SEVENTY) else
-	"0001111" when (CBE > SEVENTY AND CBE < ETY) else
-	"0000100";
+CBS <=	"1111110" when CBE < NEUF else                  
+	"0110000" when (CBE > NEUF AND CBE < DNEUF) else
+	"1101101" when (CBE > DNEUF AND CBE < VNEUF) else 
+	"1111001" when (CBE > VNEUF AND CBE < TNEUF) else 
+	"0110011" when (CBE > TNEUF AND CBE < QNEUF) else 
+	"1011011" when (CBE > QNEUF AND CBE < CNEUF) else
+	"1011111" when (CBE > CNEUF AND CBE < SEVENTY) else
+	"1110000" when (CBE > SEVENTY AND CBE < ETY) else
+	"1111111";
 END Behavior;
 
